@@ -139,31 +139,6 @@ Once the application is running, you can interact with it through several sectio
 - **System.Windows.Forms**: Used to create the graphical user interface (GUI).
 - **System.Linq**: Provides LINQ methods for grouping and filtering issues.
 
----
-
-## Contributing
-
-If you would like to contribute to the development of **SouthAfricaMuni**, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **Stack Overflow** for the invaluable community support.
-- **Microsoft** for creating Visual Studio and .NET Framework.
-- **GitHub** for hosting this repository.
 
 ---
 
